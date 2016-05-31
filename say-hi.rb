@@ -1,1 +1,4 @@
-puts "Hello World!"
+
+99.times do
+  puts "Hello World!"
+end
